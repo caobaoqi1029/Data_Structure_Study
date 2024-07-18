@@ -68,3 +68,4 @@ _deps
 /.runtime/
 /.idea/
 *.iml
+cmake-build-debug
