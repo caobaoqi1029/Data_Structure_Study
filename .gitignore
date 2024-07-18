@@ -77,3 +77,4 @@ cache
 .cache
 .temp
 *.local
+!/config/conf.d/
