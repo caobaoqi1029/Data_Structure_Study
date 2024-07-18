@@ -69,3 +69,7 @@ _deps
 /.idea/
 *.iml
 cmake-build-debug
+node_modules/
+docs/.vuepress/.cache/
+docs/.vuepress/.temp/
+docs/.vuepress/dist/
